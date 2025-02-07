@@ -1,4 +1,4 @@
-<h3 align="center" font-size="14">[byt3d4sh@celestial ~]# whoami</h3>
+<h3 align="left" font-size="14">whoami</h3>
 <h4 align="left">byt3d4sh</h4>
 <h3 align="center">Malware Development. Reverse Engineering. Pentesting.</h3>
 

@@ -1,5 +1,5 @@
-<h1 align="center">[user@celestial ~]# whoami</h1>
-<h2 align="center">byt3d4sh</h2>
+<h3 align="center" font-size="14">[user@celestial ~]# whoami</h3>
+<h4 align="center">byt3d4sh</h4>
 <h3 align="center">Malware Development. Reverse Engineering. Pentesting.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byt3d4sh&label=Profile%20views&color=0e75b6&style=flat" alt="byt3d4sh" /> </p>
